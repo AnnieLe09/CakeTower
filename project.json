@@ -1,0 +1,19 @@
+{
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"../../frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/Resource.js",
+        "src/config/GameConfig.js",
+        "src/GameOver.js",
+        "src/MainGame.js",
+        "src/Cake.js",
+        "src/MenuScene.js"
+    ]
+}
